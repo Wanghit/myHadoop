@@ -1,9 +1,9 @@
 # myHadoop
-并行与分布式作业
-实验二
-（三）MyFSDataInputStream
-jar运行命令
-hadoop jar myHadoop.jar MyFSDataInputStream   文件名
-（四）FsUrl
-jar运行命令
-hadoop jar myHadoop.jar FsUrl   文件名
+并行与分布式作业<br>
+实验二<br>
+（三）MyFSDataInputStream<br>
+jar运行命令<br>
+hadoop jar myHadoop.jar MyFSDataInputStream   文件名<br>
+（四）FsUrl<br>
+jar运行命令<br>
+hadoop jar myHadoop.jar FsUrl   文件名<br>
